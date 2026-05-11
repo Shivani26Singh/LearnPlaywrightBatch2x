@@ -13,6 +13,7 @@ This repository contains materials for a JavaScript + Playwright + AI course. It
 - `chapter_01_Basics/` - Basic JavaScript exercises, environment verification, and introductory runtime examples
 - `chapter_02_Javascript_Concepts/` - Core JavaScript variable usage and basic scripting examples
 - `chapter_03_Identifier_Literals/` - JavaScript identifier rules, naming conventions, comments, and identifier examples
+- `chapter_04_Javascript_Concepts/` - Advanced JavaScript concepts including variables (var, let, const), functions, scope, and hoisting
 
 ## Chapter Details
 
@@ -32,6 +33,17 @@ This repository contains materials for a JavaScript + Playwright + AI course. It
 - `js_identifer_rules.js` - detailed identifier rules, including reserved keyword restrictions, case sensitivity, Unicode support, and invalid name examples
 - `VS_Code_keyboard_shortcut_mac.md` - macOS keyboard shortcuts for VS Code
 - `VS_Code_keyboard_shortcut_windows.md` - Windows keyboard shortcuts for VS Code
+
+### `chapter_04_Javascript_Concepts/`
+- `09_var_let_const.js` - Comparison of var, let, and const variable declarations
+- `10_functions.js` - Function declarations and usage
+- `11_var_explained.js` - Detailed explanation of var keyword
+- `12_let_peope_love.js` - Explanation of let keyword
+- `13_const_explained.js` - Explanation of const keyword
+- `14_var_functionscope.js` - Function scope with var
+- `15_let_scope.js` - Block scope with let
+- `16_Hoisting.js` - Variable hoisting concepts
+- `17_hoisting_fn.js` - Function hoisting examples
 
 ## Getting Started
 

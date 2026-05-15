@@ -14,6 +14,8 @@ This repository contains materials for a JavaScript + Playwright + AI course. It
 - `chapter_02_Javascript_Concepts/` - Core JavaScript variable usage and basic scripting examples
 - `chapter_03_Identifier_Literals/` - JavaScript identifier rules, naming conventions, comments, and identifier examples
 - `chapter_04_Javascript_Concepts/` - Advanced JavaScript concepts including variables (var, let, const), functions, scope, and hoisting
+- `chapter_05_Literal/` - JavaScript literals including null, undefined, number, and string literal types
+- `chapter_06_Operator/` - JavaScript operators including arithmetic, comparison, logical, ternary, and type operators
 
 ## Chapter Details
 
@@ -44,6 +46,37 @@ This repository contains materials for a JavaScript + Playwright + AI course. It
 - `15_let_scope.js` - Block scope with let
 - `16_Hoisting.js` - Variable hoisting concepts
 - `17_hoisting_fn.js` - Function hoisting examples
+- `18_let_hoisting.js` - let keyword hoisting behavior
+- `19_let_hoisting_block.js` - Block scope hoisting with let
+- `20_let_const.js` - Comparison between let and const
+- `21_QA.js` - Q&A exercises on var, let, const, functions, and scope
+
+### `chapter_05_Literal/`
+- `22_Literal.js` - Introduction to literals in JavaScript
+- `23_null_undefined.js` - Understanding null and undefined values
+- `24_null.js` - Deep dive into null
+- `25_Literal_All.js` - Overview of all literal types
+- `26_Literal_Number_all.js` - Number literal types and formats
+- `27_String.js` - String literals and usage
+- `28_Template_Literal.js` - Template literals with backticks
+- `29_Backtick_single_double.js` - Comparison of backticks, single, and double quotes
+
+### `chapter_06_Operator/`
+- `30_Operator.js` - Introduction to operators
+- `31_Arithmetic_OP.js` - Arithmetic operators (+, -, *, /, %)
+- `32_Modulus_OP.js` - Modulus operator details
+- `33_Expo_OP.js` - Exponentiation operator
+- `34_IQ.js` - Operator IQ exercises
+- `35_Comparsion_OP.js` - Comparison operators (<, >, <=, >=, ==, ===)
+- `36_Comparsion_Strict_loose.js` - Strict vs loose comparison
+- `37_IQ_Loose_Strict.js` - Comparison IQ exercises
+- `38_Confusing_Comparsion.js` - Edge cases in comparison
+- `39_Logical_Op.js` - Logical operators (&&, ||, !)
+- `40_String_Con_Op.js` - String concatenation operator
+- `41_Ternary_Op.js` - Ternary conditional operator
+- `42_Type_Op.js` - typeof operator
+- `43_Incre_Decre_Op.js` - Increment and decrement operators
+- `44_Null_Op.js` - Null coalescing and nullish operators
 
 ## Getting Started
 

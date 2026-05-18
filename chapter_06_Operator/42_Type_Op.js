@@ -1,4 +1,5 @@
-console.log(typeof 10);          // "number"
+console.log(typeof 10);          // int --> "number"
+console.log(typeof 31.4); // float -> number
 console.log(typeof "Hello");     // "string"
 console.log(typeof true);        // "boolean"
 console.log(typeof undefined);   // "undefined"
